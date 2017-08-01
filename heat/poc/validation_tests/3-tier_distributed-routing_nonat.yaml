@@ -10,7 +10,7 @@ parameters:
     type: string
     label: ext-net
     description: UUID of a Neutron external network
-    default: 995cf315-8d49-427e-aa16-16051bab37aa
+    default: 93ffb610-3efd-4fe0-8e1f-c4c56369728c
 
   web_image:
     type: string
